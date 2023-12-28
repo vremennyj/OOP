@@ -1,4 +1,3 @@
-// Test.cpp
 #include <cassert>
 #include <string.h>
 #include "AEROFLOT.h"
