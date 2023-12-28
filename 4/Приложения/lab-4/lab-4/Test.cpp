@@ -8,7 +8,7 @@
 using namespace std;
 
 void test() {
-    LOG_DURATION("flight");
+    LOG_DURATION("bus");
     //Тест конструктора
     AEROFLOT flight("Ейск", 10101022, "Боинг");
 
