@@ -1,3 +1,4 @@
+// AEROFLOT.cpp
 #include "AEROFLOT.h"
 
 // Констурктор
